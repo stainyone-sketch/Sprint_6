@@ -1,0 +1,5 @@
+Python 3.12+
+Pytest 9.0+
+Selenium WebDriver 4.10+
+Allure 2.33+
+WebDriver Manager
