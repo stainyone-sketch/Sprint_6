@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 {"total":3,"items":[{"uid":"d70a3ececaa8f627d96c1de1660c3f53","name":"FAQ","statistic":{"failed":0,"broken":0,"skipped":0,"passed":8,"unknown":0,"total":8}},{"uid":"32518d5ed2e15747fdde62ed6bfcb47b","name":"Навигация","statistic":{"failed":0,"broken":0,"skipped":0,"passed":2,"unknown":0,"total":2}},{"uid":"2afab85d9301067ebf3246f2d6f0f876","name":"Заказ самоката","statistic":{"failed":0,"broken":0,"skipped":0,"passed":2,"unknown":0,"total":2}}]}
+=======
+{"total":3,"items":[{"uid":"32518d5ed2e15747fdde62ed6bfcb47b","name":"Навигация","statistic":{"failed":0,"broken":0,"skipped":0,"passed":2,"unknown":0,"total":2}},{"uid":"2afab85d9301067ebf3246f2d6f0f876","name":"Заказ самоката","statistic":{"failed":0,"broken":0,"skipped":0,"passed":2,"unknown":0,"total":2}},{"uid":"d70a3ececaa8f627d96c1de1660c3f53","name":"FAQ","statistic":{"failed":0,"broken":0,"skipped":0,"passed":1,"unknown":0,"total":1}}]}
+>>>>>>> e0c9b3b7d19f3b90a71204a558dce4f3c830449c
