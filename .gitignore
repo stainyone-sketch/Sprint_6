@@ -1,0 +1,25 @@
+venv/
+.venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+<<<<<<< HEAD
+allure-results
+=======
+>>>>>>> e0c9b3b7d19f3b90a71204a558dce4f3c830449c
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+htmlcov/
+.logs/
+*.log
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
